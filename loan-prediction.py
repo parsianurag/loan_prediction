@@ -138,8 +138,7 @@ with st.container():
     with right_column:
 
         st.write('_For any issue contact me via :_')
-        st.info('[LinkedIn](https://www.linkedin.com/in/ali-abdallah7/)', icon="📩")
-        st.info('[Whatsapp](https://wa.me/+201126880776)', icon="📲")
+        st.info('[LinkedIn](www.linkedin.com/in/anurag-parsi-407377238)', icon="📩")
 
     with left_column:
         st_lottie(animation_contact, speed=1, height=200, key="third")
