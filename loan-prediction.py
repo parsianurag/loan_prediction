@@ -139,6 +139,7 @@ with st.container():
 
         st.write('_For any issue contact me via:_')
         st.info('[LinkedIn](https://www.linkedin.com/in/anurag-parsi-407377238)', icon="📩")
+         st.info('[anuragdscon@gmail.com]', icon="📩")
 
 
     with left_column:
