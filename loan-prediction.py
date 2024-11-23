@@ -200,7 +200,7 @@ text-align: center;
 
 </style>
 <div class="footer">
-<p>&copy; 2024 <a href="www.linkedin.com/in/anurag-parsi-407377238"> Anurag Parsi</a></p>
+<p>&copy; 2024 <a href="https://www.linkedin.com/in/anurag-parsi-407377238"> Anurag Parsi</a></p>
 </div>
 """
 st.markdown(footer,unsafe_allow_html=True)
